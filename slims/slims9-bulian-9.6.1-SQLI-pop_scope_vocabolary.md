@@ -88,4 +88,3 @@ From the source code analysis before, we can safely assume that this code is vul
 
 - KaCeWaffle
 - Kiinzu
-- 0xdc9
